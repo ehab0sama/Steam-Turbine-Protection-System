@@ -56,7 +56,7 @@ compared to conventional open-loop operation.
 ```text
 MATLAB/        → simulation code
 Figures/       → plots and diagrams
-Presentation/  → PowerPoint slides
+Presentation/  → Overleaf (LateX editor)
 Report/        → technical documentation
 
 Author
